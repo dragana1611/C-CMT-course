@@ -1,0 +1,7 @@
+G:\Stari disk\Gaga\ITBootcamp_sve\CMT\C#\Cas2\Primer1\Primer3\bin\Debug\Primer3.exe.config
+G:\Stari disk\Gaga\ITBootcamp_sve\CMT\C#\Cas2\Primer1\Primer3\bin\Debug\Primer3.exe
+G:\Stari disk\Gaga\ITBootcamp_sve\CMT\C#\Cas2\Primer1\Primer3\bin\Debug\Primer3.pdb
+G:\Stari disk\Gaga\ITBootcamp_sve\CMT\C#\Cas2\Primer1\Primer3\obj\Debug\Primer3.csproj.CoreCompileInputs.cache
+G:\Stari disk\Gaga\ITBootcamp_sve\CMT\C#\Cas2\Primer1\Primer3\obj\Debug\Primer3.exe
+G:\Stari disk\Gaga\ITBootcamp_sve\CMT\C#\Cas2\Primer1\Primer3\obj\Debug\Primer3.pdb
+G:\Stari disk\Gaga\ITBootcamp_sve\CMT\C#\Cas2\Primer1\Primer3\obj\Debug\Primer3.csproj.AssemblyReference.cache

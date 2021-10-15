@@ -1,0 +1,2 @@
+C:\Users\Zorana\source\repos\Uvod_C_2_Primeri\P5 - Enumeracije\obj\Debug\P5 - Enumeracije.csprojAssemblyReference.cache
+C:\Users\Zorana\source\repos\Uvod_C_2_Primeri\P5 - Enumeracije\obj\Debug\P5 - Enumeracije.csproj.CoreCompileInputs.cache

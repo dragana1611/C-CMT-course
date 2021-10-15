@@ -1,0 +1,7 @@
+C:\Users\Zorana\source\repos\Uvod_C_2_Primeri\P1 - Uslovi odlucivanja\bin\Debug\P1 - Uslovi odlucivanja.exe.config
+C:\Users\Zorana\source\repos\Uvod_C_2_Primeri\P1 - Uslovi odlucivanja\bin\Debug\P1 - Uslovi odlucivanja.exe
+C:\Users\Zorana\source\repos\Uvod_C_2_Primeri\P1 - Uslovi odlucivanja\bin\Debug\P1 - Uslovi odlucivanja.pdb
+C:\Users\Zorana\source\repos\Uvod_C_2_Primeri\P1 - Uslovi odlucivanja\obj\Debug\P1 - Uslovi odlucivanja.csprojAssemblyReference.cache
+C:\Users\Zorana\source\repos\Uvod_C_2_Primeri\P1 - Uslovi odlucivanja\obj\Debug\P1 - Uslovi odlucivanja.csproj.CoreCompileInputs.cache
+C:\Users\Zorana\source\repos\Uvod_C_2_Primeri\P1 - Uslovi odlucivanja\obj\Debug\P1 - Uslovi odlucivanja.exe
+C:\Users\Zorana\source\repos\Uvod_C_2_Primeri\P1 - Uslovi odlucivanja\obj\Debug\P1 - Uslovi odlucivanja.pdb

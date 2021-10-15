@@ -1,0 +1,7 @@
+G:\Stari disk\Gaga\ITBootcamp_sve\CMT\C#\ZadaciCas1\Zad1\bin\Debug\Zad1.exe.config
+G:\Stari disk\Gaga\ITBootcamp_sve\CMT\C#\ZadaciCas1\Zad1\bin\Debug\Zad1.exe
+G:\Stari disk\Gaga\ITBootcamp_sve\CMT\C#\ZadaciCas1\Zad1\bin\Debug\Zad1.pdb
+G:\Stari disk\Gaga\ITBootcamp_sve\CMT\C#\ZadaciCas1\Zad1\obj\Debug\Zad1.csproj.AssemblyReference.cache
+G:\Stari disk\Gaga\ITBootcamp_sve\CMT\C#\ZadaciCas1\Zad1\obj\Debug\Zad1.csproj.CoreCompileInputs.cache
+G:\Stari disk\Gaga\ITBootcamp_sve\CMT\C#\ZadaciCas1\Zad1\obj\Debug\Zad1.exe
+G:\Stari disk\Gaga\ITBootcamp_sve\CMT\C#\ZadaciCas1\Zad1\obj\Debug\Zad1.pdb
