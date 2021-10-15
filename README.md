@@ -1,6 +1,6 @@
-# CMT course - C++
+# CMT course - C#
 
-CMT course C++
+CMT course C#
 
 CMT fondacija 
 Sedište fondacije je u Novom Sadu 
