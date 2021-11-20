@@ -1,0 +1,1 @@
+string[3], tri stringa ima niz stringova a

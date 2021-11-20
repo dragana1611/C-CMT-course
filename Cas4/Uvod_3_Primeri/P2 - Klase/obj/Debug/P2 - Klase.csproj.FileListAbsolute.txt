@@ -1,0 +1,7 @@
+G:\Stari disk\Gaga\ITBootcamp_sve\CMT\C#\Cas4\Uvod_3_Primeri\P2 - Klase\bin\Debug\P2 - Klase.exe.config
+G:\Stari disk\Gaga\ITBootcamp_sve\CMT\C#\Cas4\Uvod_3_Primeri\P2 - Klase\bin\Debug\P2 - Klase.exe
+G:\Stari disk\Gaga\ITBootcamp_sve\CMT\C#\Cas4\Uvod_3_Primeri\P2 - Klase\bin\Debug\P2 - Klase.pdb
+G:\Stari disk\Gaga\ITBootcamp_sve\CMT\C#\Cas4\Uvod_3_Primeri\P2 - Klase\obj\Debug\P2 - Klase.csproj.AssemblyReference.cache
+G:\Stari disk\Gaga\ITBootcamp_sve\CMT\C#\Cas4\Uvod_3_Primeri\P2 - Klase\obj\Debug\P2 - Klase.csproj.CoreCompileInputs.cache
+G:\Stari disk\Gaga\ITBootcamp_sve\CMT\C#\Cas4\Uvod_3_Primeri\P2 - Klase\obj\Debug\P2 - Klase.exe
+G:\Stari disk\Gaga\ITBootcamp_sve\CMT\C#\Cas4\Uvod_3_Primeri\P2 - Klase\obj\Debug\P2 - Klase.pdb
