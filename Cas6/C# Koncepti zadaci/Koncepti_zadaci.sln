@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30611.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Z1 - Racun u banci", "Z1 - Racun u banci\Z1 - Racun u banci.csproj", "{F8CE7F33-3FC5-4E6B-BB2E-DE5962C5CFAE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Z2 - Instrumenti", "Z2 - Instrumenti\Z2 - Instrumenti.csproj", "{F9FAF02E-CB26-42FD-9EF2-D691CEFAE0F5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F8CE7F33-3FC5-4E6B-BB2E-DE5962C5CFAE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F8CE7F33-3FC5-4E6B-BB2E-DE5962C5CFAE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F8CE7F33-3FC5-4E6B-BB2E-DE5962C5CFAE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F8CE7F33-3FC5-4E6B-BB2E-DE5962C5CFAE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F9FAF02E-CB26-42FD-9EF2-D691CEFAE0F5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F9FAF02E-CB26-42FD-9EF2-D691CEFAE0F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F9FAF02E-CB26-42FD-9EF2-D691CEFAE0F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F9FAF02E-CB26-42FD-9EF2-D691CEFAE0F5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4185ACCC-95DA-4C29-A04C-309B4A18C328}
+	EndGlobalSection
+EndGlobal
