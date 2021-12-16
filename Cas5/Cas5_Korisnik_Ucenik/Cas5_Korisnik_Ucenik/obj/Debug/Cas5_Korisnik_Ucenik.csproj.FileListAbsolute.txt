@@ -1,0 +1,14 @@
+C:\Users\Asus\source\repos\Cas5_Korisnik_Ucenik\Cas5_Korisnik_Ucenik\bin\Debug\Cas5_Korisnik_Ucenik.exe.config
+C:\Users\Asus\source\repos\Cas5_Korisnik_Ucenik\Cas5_Korisnik_Ucenik\bin\Debug\Cas5_Korisnik_Ucenik.exe
+C:\Users\Asus\source\repos\Cas5_Korisnik_Ucenik\Cas5_Korisnik_Ucenik\bin\Debug\Cas5_Korisnik_Ucenik.pdb
+C:\Users\Asus\source\repos\Cas5_Korisnik_Ucenik\Cas5_Korisnik_Ucenik\obj\Debug\Cas5_Korisnik_Ucenik.csproj.AssemblyReference.cache
+C:\Users\Asus\source\repos\Cas5_Korisnik_Ucenik\Cas5_Korisnik_Ucenik\obj\Debug\Cas5_Korisnik_Ucenik.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\Cas5_Korisnik_Ucenik\Cas5_Korisnik_Ucenik\obj\Debug\Cas5_Korisnik_Ucenik.exe
+C:\Users\Asus\source\repos\Cas5_Korisnik_Ucenik\Cas5_Korisnik_Ucenik\obj\Debug\Cas5_Korisnik_Ucenik.pdb
+G:\Stari disk\Gaga\ITBootcamp_sve\CMT\C#\Cas5\Cas5_Korisnik_Ucenik\Cas5_Korisnik_Ucenik\bin\Debug\Cas5_Korisnik_Ucenik.exe.config
+G:\Stari disk\Gaga\ITBootcamp_sve\CMT\C#\Cas5\Cas5_Korisnik_Ucenik\Cas5_Korisnik_Ucenik\bin\Debug\Cas5_Korisnik_Ucenik.exe
+G:\Stari disk\Gaga\ITBootcamp_sve\CMT\C#\Cas5\Cas5_Korisnik_Ucenik\Cas5_Korisnik_Ucenik\bin\Debug\Cas5_Korisnik_Ucenik.pdb
+G:\Stari disk\Gaga\ITBootcamp_sve\CMT\C#\Cas5\Cas5_Korisnik_Ucenik\Cas5_Korisnik_Ucenik\obj\Debug\Cas5_Korisnik_Ucenik.csproj.AssemblyReference.cache
+G:\Stari disk\Gaga\ITBootcamp_sve\CMT\C#\Cas5\Cas5_Korisnik_Ucenik\Cas5_Korisnik_Ucenik\obj\Debug\Cas5_Korisnik_Ucenik.csproj.CoreCompileInputs.cache
+G:\Stari disk\Gaga\ITBootcamp_sve\CMT\C#\Cas5\Cas5_Korisnik_Ucenik\Cas5_Korisnik_Ucenik\obj\Debug\Cas5_Korisnik_Ucenik.exe
+G:\Stari disk\Gaga\ITBootcamp_sve\CMT\C#\Cas5\Cas5_Korisnik_Ucenik\Cas5_Korisnik_Ucenik\obj\Debug\Cas5_Korisnik_Ucenik.pdb

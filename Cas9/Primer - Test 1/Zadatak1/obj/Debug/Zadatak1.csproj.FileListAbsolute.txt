@@ -1,0 +1,21 @@
+E:\POSAO\CMT\2020 - 2021\6. Uvod u .NET (2)\Primer - Test 1\Test 1\Zadatak1\bin\Debug\Zadatak1.exe.config
+E:\POSAO\CMT\2020 - 2021\6. Uvod u .NET (2)\Primer - Test 1\Test 1\Zadatak1\bin\Debug\Zadatak1.exe
+E:\POSAO\CMT\2020 - 2021\6. Uvod u .NET (2)\Primer - Test 1\Test 1\Zadatak1\bin\Debug\Zadatak1.pdb
+E:\POSAO\CMT\2020 - 2021\6. Uvod u .NET (2)\Primer - Test 1\Test 1\Zadatak1\obj\Debug\Zadatak1.csprojAssemblyReference.cache
+E:\POSAO\CMT\2020 - 2021\6. Uvod u .NET (2)\Primer - Test 1\Test 1\Zadatak1\obj\Debug\Zadatak1.csproj.CoreCompileInputs.cache
+E:\POSAO\CMT\2020 - 2021\6. Uvod u .NET (2)\Primer - Test 1\Test 1\Zadatak1\obj\Debug\Zadatak1.exe
+E:\POSAO\CMT\2020 - 2021\6. Uvod u .NET (2)\Primer - Test 1\Test 1\Zadatak1\obj\Debug\Zadatak1.pdb
+C:\Users\Marko\Documents\CMT\CMT 21-22\C#\cas9\Primer - Test 1\Zadatak1\bin\Debug\Zadatak1.exe.config
+C:\Users\Marko\Documents\CMT\CMT 21-22\C#\cas9\Primer - Test 1\Zadatak1\bin\Debug\Zadatak1.exe
+C:\Users\Marko\Documents\CMT\CMT 21-22\C#\cas9\Primer - Test 1\Zadatak1\bin\Debug\Zadatak1.pdb
+C:\Users\Marko\Documents\CMT\CMT 21-22\C#\cas9\Primer - Test 1\Zadatak1\obj\Debug\Zadatak1.csproj.AssemblyReference.cache
+C:\Users\Marko\Documents\CMT\CMT 21-22\C#\cas9\Primer - Test 1\Zadatak1\obj\Debug\Zadatak1.csproj.CoreCompileInputs.cache
+C:\Users\Marko\Documents\CMT\CMT 21-22\C#\cas9\Primer - Test 1\Zadatak1\obj\Debug\Zadatak1.exe
+C:\Users\Marko\Documents\CMT\CMT 21-22\C#\cas9\Primer - Test 1\Zadatak1\obj\Debug\Zadatak1.pdb
+G:\Stari disk\Gaga\ITBootcamp_sve\CMT\C#\Cas9\Primer - Test 1\Zadatak1\bin\Debug\Zadatak1.exe.config
+G:\Stari disk\Gaga\ITBootcamp_sve\CMT\C#\Cas9\Primer - Test 1\Zadatak1\bin\Debug\Zadatak1.exe
+G:\Stari disk\Gaga\ITBootcamp_sve\CMT\C#\Cas9\Primer - Test 1\Zadatak1\bin\Debug\Zadatak1.pdb
+G:\Stari disk\Gaga\ITBootcamp_sve\CMT\C#\Cas9\Primer - Test 1\Zadatak1\obj\Debug\Zadatak1.csproj.AssemblyReference.cache
+G:\Stari disk\Gaga\ITBootcamp_sve\CMT\C#\Cas9\Primer - Test 1\Zadatak1\obj\Debug\Zadatak1.csproj.CoreCompileInputs.cache
+G:\Stari disk\Gaga\ITBootcamp_sve\CMT\C#\Cas9\Primer - Test 1\Zadatak1\obj\Debug\Zadatak1.exe
+G:\Stari disk\Gaga\ITBootcamp_sve\CMT\C#\Cas9\Primer - Test 1\Zadatak1\obj\Debug\Zadatak1.pdb

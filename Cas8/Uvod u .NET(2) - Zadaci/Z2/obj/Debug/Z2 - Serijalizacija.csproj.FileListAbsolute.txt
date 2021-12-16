@@ -1,0 +1,14 @@
+C:\Users\Zorana\Downloads\Uvod u .NET (2) - Zadaci\Vezba5 - Primer\Z2\bin\Debug\Zadatak3.exe.config
+C:\Users\Zorana\Downloads\Uvod u .NET (2) - Zadaci\Vezba5 - Primer\Z2\bin\Debug\Zadatak3.exe
+C:\Users\Zorana\Downloads\Uvod u .NET (2) - Zadaci\Vezba5 - Primer\Z2\bin\Debug\Zadatak3.pdb
+C:\Users\Zorana\Downloads\Uvod u .NET (2) - Zadaci\Vezba5 - Primer\Z2\obj\Debug\Z2 - Serijalizacija.csprojAssemblyReference.cache
+C:\Users\Zorana\Downloads\Uvod u .NET (2) - Zadaci\Vezba5 - Primer\Z2\obj\Debug\Z2 - Serijalizacija.csproj.CoreCompileInputs.cache
+C:\Users\Zorana\Downloads\Uvod u .NET (2) - Zadaci\Vezba5 - Primer\Z2\obj\Debug\Zadatak3.exe
+C:\Users\Zorana\Downloads\Uvod u .NET (2) - Zadaci\Vezba5 - Primer\Z2\obj\Debug\Zadatak3.pdb
+E:\POSAO\CMT\2020 - 2021\6. Uvod u .NET (2)\Uvod u .NET (2) - Zadaci\Vezba5 - Primer\Z2\bin\Debug\Zadatak3.exe.config
+E:\POSAO\CMT\2020 - 2021\6. Uvod u .NET (2)\Uvod u .NET (2) - Zadaci\Vezba5 - Primer\Z2\bin\Debug\Zadatak3.exe
+E:\POSAO\CMT\2020 - 2021\6. Uvod u .NET (2)\Uvod u .NET (2) - Zadaci\Vezba5 - Primer\Z2\bin\Debug\Zadatak3.pdb
+E:\POSAO\CMT\2020 - 2021\6. Uvod u .NET (2)\Uvod u .NET (2) - Zadaci\Vezba5 - Primer\Z2\obj\Debug\Z2 - Serijalizacija.csprojAssemblyReference.cache
+E:\POSAO\CMT\2020 - 2021\6. Uvod u .NET (2)\Uvod u .NET (2) - Zadaci\Vezba5 - Primer\Z2\obj\Debug\Z2 - Serijalizacija.csproj.CoreCompileInputs.cache
+E:\POSAO\CMT\2020 - 2021\6. Uvod u .NET (2)\Uvod u .NET (2) - Zadaci\Vezba5 - Primer\Z2\obj\Debug\Zadatak3.exe
+E:\POSAO\CMT\2020 - 2021\6. Uvod u .NET (2)\Uvod u .NET (2) - Zadaci\Vezba5 - Primer\Z2\obj\Debug\Zadatak3.pdb

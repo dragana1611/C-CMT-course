@@ -1,0 +1,7 @@
+E:\POSAO\CMT\2020 - 2021\6. Uvod u .NET (2)\Uvod u .NET (2) - Zadaci\Vezba5 - Primer\Z1\bin\Debug\Z1.exe.config
+E:\POSAO\CMT\2020 - 2021\6. Uvod u .NET (2)\Uvod u .NET (2) - Zadaci\Vezba5 - Primer\Z1\bin\Debug\Z1.exe
+E:\POSAO\CMT\2020 - 2021\6. Uvod u .NET (2)\Uvod u .NET (2) - Zadaci\Vezba5 - Primer\Z1\bin\Debug\Z1.pdb
+E:\POSAO\CMT\2020 - 2021\6. Uvod u .NET (2)\Uvod u .NET (2) - Zadaci\Vezba5 - Primer\Z1\obj\Debug\Z1 - IO operacije.csprojAssemblyReference.cache
+E:\POSAO\CMT\2020 - 2021\6. Uvod u .NET (2)\Uvod u .NET (2) - Zadaci\Vezba5 - Primer\Z1\obj\Debug\Z1 - IO operacije.csproj.CoreCompileInputs.cache
+E:\POSAO\CMT\2020 - 2021\6. Uvod u .NET (2)\Uvod u .NET (2) - Zadaci\Vezba5 - Primer\Z1\obj\Debug\Z1.exe
+E:\POSAO\CMT\2020 - 2021\6. Uvod u .NET (2)\Uvod u .NET (2) - Zadaci\Vezba5 - Primer\Z1\obj\Debug\Z1.pdb
