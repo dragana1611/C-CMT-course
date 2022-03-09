@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.902
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P1-SqlConnectionKlasa", "P1-SqlConnectionKlasa\P1-SqlConnectionKlasa.csproj", "{0A09A946-6C0C-4A2A-9DA4-0B647CBD4D05}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P2-SqlCommandKlasa", "P2-SqlCommandKlasa\P2-SqlCommandKlasa.csproj", "{DA8AA9CA-B958-4D7C-BEBB-CB8727672681}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0A09A946-6C0C-4A2A-9DA4-0B647CBD4D05}.Debug|x86.ActiveCfg = Debug|x86
+		{0A09A946-6C0C-4A2A-9DA4-0B647CBD4D05}.Debug|x86.Build.0 = Debug|x86
+		{0A09A946-6C0C-4A2A-9DA4-0B647CBD4D05}.Release|x86.ActiveCfg = Release|x86
+		{0A09A946-6C0C-4A2A-9DA4-0B647CBD4D05}.Release|x86.Build.0 = Release|x86
+		{DA8AA9CA-B958-4D7C-BEBB-CB8727672681}.Debug|x86.ActiveCfg = Debug|x86
+		{DA8AA9CA-B958-4D7C-BEBB-CB8727672681}.Debug|x86.Build.0 = Debug|x86
+		{DA8AA9CA-B958-4D7C-BEBB-CB8727672681}.Release|x86.ActiveCfg = Release|x86
+		{DA8AA9CA-B958-4D7C-BEBB-CB8727672681}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {455D35FE-C38E-435F-B9A7-A10F595B0178}
+	EndGlobalSection
+EndGlobal

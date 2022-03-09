@@ -1,0 +1,12 @@
+E:\CMT\2017-2018\3. ADO.NET\12. Uvod u ADO.NET\Uvod u ADO.NET - Primeri\P2-SqlCommandKlasa\bin\Debug\SqlCommandKlasa.exe
+E:\CMT\2017-2018\3. ADO.NET\12. Uvod u ADO.NET\Uvod u ADO.NET - Primeri\P2-SqlCommandKlasa\bin\Debug\SqlCommandKlasa.pdb
+E:\CMT\2017-2018\3. ADO.NET\12. Uvod u ADO.NET\Uvod u ADO.NET - Primeri\P2-SqlCommandKlasa\obj\x86\Debug\SqlCommandKlasa.exe
+E:\CMT\2017-2018\3. ADO.NET\12. Uvod u ADO.NET\Uvod u ADO.NET - Primeri\P2-SqlCommandKlasa\obj\x86\Debug\SqlCommandKlasa.pdb
+E:\CMT\2017-2018\3. ADO.NET\12. Uvod u ADO.NET (prvi deo)\Uvod u ADO.NET (prvi deo) - Primeri\Uvod u ADO.NET - Primeri\P2-SqlCommandKlasa\obj\x86\Debug\SqlCommandKlasa.exe
+E:\CMT\2017-2018\3. ADO.NET\12. Uvod u ADO.NET (prvi deo)\Uvod u ADO.NET (prvi deo) - Primeri\Uvod u ADO.NET - Primeri\P2-SqlCommandKlasa\obj\x86\Debug\SqlCommandKlasa.pdb
+E:\POSAO\CMT\2019 - 2020\3. ADO.NET\14. Rad sa bazom podataka i uvod u ADO.NET\Uvod u ADO.NET (prvi deo) - Primeri\Uvod u ADO.NET - Primeri\P2-SqlCommandKlasa\bin\Debug\SqlCommandKlasa.exe
+E:\POSAO\CMT\2019 - 2020\3. ADO.NET\14. Rad sa bazom podataka i uvod u ADO.NET\Uvod u ADO.NET (prvi deo) - Primeri\Uvod u ADO.NET - Primeri\P2-SqlCommandKlasa\bin\Debug\SqlCommandKlasa.pdb
+E:\POSAO\CMT\2019 - 2020\3. ADO.NET\14. Rad sa bazom podataka i uvod u ADO.NET\Uvod u ADO.NET (prvi deo) - Primeri\Uvod u ADO.NET - Primeri\P2-SqlCommandKlasa\obj\x86\Debug\P2-SqlCommandKlasa.csprojAssemblyReference.cache
+E:\POSAO\CMT\2019 - 2020\3. ADO.NET\14. Rad sa bazom podataka i uvod u ADO.NET\Uvod u ADO.NET (prvi deo) - Primeri\Uvod u ADO.NET - Primeri\P2-SqlCommandKlasa\obj\x86\Debug\P2-SqlCommandKlasa.csproj.CoreCompileInputs.cache
+E:\POSAO\CMT\2019 - 2020\3. ADO.NET\14. Rad sa bazom podataka i uvod u ADO.NET\Uvod u ADO.NET (prvi deo) - Primeri\Uvod u ADO.NET - Primeri\P2-SqlCommandKlasa\obj\x86\Debug\SqlCommandKlasa.exe
+E:\POSAO\CMT\2019 - 2020\3. ADO.NET\14. Rad sa bazom podataka i uvod u ADO.NET\Uvod u ADO.NET (prvi deo) - Primeri\Uvod u ADO.NET - Primeri\P2-SqlCommandKlasa\obj\x86\Debug\SqlCommandKlasa.pdb

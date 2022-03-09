@@ -1,0 +1,11 @@
+G:\Stari disk\Gaga\ITBootcamp_sve\CMT\C#\Cas14\Test2Primer\Test2Primer\bin\Debug\Test2Primer.exe.config
+G:\Stari disk\Gaga\ITBootcamp_sve\CMT\C#\Cas14\Test2Primer\Test2Primer\bin\Debug\Test2Primer.exe
+G:\Stari disk\Gaga\ITBootcamp_sve\CMT\C#\Cas14\Test2Primer\Test2Primer\bin\Debug\Test2Primer.pdb
+G:\Stari disk\Gaga\ITBootcamp_sve\CMT\C#\Cas14\Test2Primer\Test2Primer\obj\Debug\Test2Primer.csproj.AssemblyReference.cache
+G:\Stari disk\Gaga\ITBootcamp_sve\CMT\C#\Cas14\Test2Primer\Test2Primer\obj\Debug\Test2Primer.Form1.resources
+G:\Stari disk\Gaga\ITBootcamp_sve\CMT\C#\Cas14\Test2Primer\Test2Primer\obj\Debug\Test2Primer.Form2.resources
+G:\Stari disk\Gaga\ITBootcamp_sve\CMT\C#\Cas14\Test2Primer\Test2Primer\obj\Debug\Test2Primer.Properties.Resources.resources
+G:\Stari disk\Gaga\ITBootcamp_sve\CMT\C#\Cas14\Test2Primer\Test2Primer\obj\Debug\Test2Primer.csproj.GenerateResource.cache
+G:\Stari disk\Gaga\ITBootcamp_sve\CMT\C#\Cas14\Test2Primer\Test2Primer\obj\Debug\Test2Primer.csproj.CoreCompileInputs.cache
+G:\Stari disk\Gaga\ITBootcamp_sve\CMT\C#\Cas14\Test2Primer\Test2Primer\obj\Debug\Test2Primer.exe
+G:\Stari disk\Gaga\ITBootcamp_sve\CMT\C#\Cas14\Test2Primer\Test2Primer\obj\Debug\Test2Primer.pdb

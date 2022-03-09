@@ -1,0 +1,10 @@
+G:\Stari disk\Gaga\ITBootcamp_sve\CMT\C#\Cas15-test2\Test2\Test2\bin\Debug\Test2.exe.config
+G:\Stari disk\Gaga\ITBootcamp_sve\CMT\C#\Cas15-test2\Test2\Test2\bin\Debug\Test2.exe
+G:\Stari disk\Gaga\ITBootcamp_sve\CMT\C#\Cas15-test2\Test2\Test2\bin\Debug\Test2.pdb
+G:\Stari disk\Gaga\ITBootcamp_sve\CMT\C#\Cas15-test2\Test2\Test2\obj\Debug\Test2.csproj.AssemblyReference.cache
+G:\Stari disk\Gaga\ITBootcamp_sve\CMT\C#\Cas15-test2\Test2\Test2\obj\Debug\Test2.Form1.resources
+G:\Stari disk\Gaga\ITBootcamp_sve\CMT\C#\Cas15-test2\Test2\Test2\obj\Debug\Test2.Properties.Resources.resources
+G:\Stari disk\Gaga\ITBootcamp_sve\CMT\C#\Cas15-test2\Test2\Test2\obj\Debug\Test2.csproj.GenerateResource.cache
+G:\Stari disk\Gaga\ITBootcamp_sve\CMT\C#\Cas15-test2\Test2\Test2\obj\Debug\Test2.csproj.CoreCompileInputs.cache
+G:\Stari disk\Gaga\ITBootcamp_sve\CMT\C#\Cas15-test2\Test2\Test2\obj\Debug\Test2.exe
+G:\Stari disk\Gaga\ITBootcamp_sve\CMT\C#\Cas15-test2\Test2\Test2\obj\Debug\Test2.pdb

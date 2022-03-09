@@ -1,0 +1,10 @@
+C:\Users\Zorana\Desktop\Cas8\Zadatak2\bin\Debug\Zadatak2.exe.config
+C:\Users\Zorana\Desktop\Cas8\Zadatak2\bin\Debug\Zadatak2.exe
+C:\Users\Zorana\Desktop\Cas8\Zadatak2\bin\Debug\Zadatak2.pdb
+C:\Users\Zorana\Desktop\Cas8\Zadatak2\obj\Debug\Zadatak2.Properties.Resources.resources
+C:\Users\Zorana\Desktop\Cas8\Zadatak2\obj\Debug\Zadatak2.csproj.GenerateResource.cache
+C:\Users\Zorana\Desktop\Cas8\Zadatak2\obj\Debug\Zadatak2.csproj.CoreCompileInputs.cache
+C:\Users\Zorana\Desktop\Cas8\Zadatak2\obj\Debug\Zadatak2.exe
+C:\Users\Zorana\Desktop\Cas8\Zadatak2\obj\Debug\Zadatak2.pdb
+C:\Users\Zorana\Desktop\Cas8\Zadatak2\obj\Debug\Zadatak2.Albumi.resources
+C:\Users\Zorana\Desktop\Cas8\Zadatak2\obj\Debug\Zadatak2.csprojAssemblyReference.cache

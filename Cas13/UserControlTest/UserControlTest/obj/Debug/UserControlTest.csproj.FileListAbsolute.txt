@@ -1,0 +1,11 @@
+C:\Users\Zorana\source\repos\UserControlTest\UserControlTest\bin\Debug\UserControlTest.exe.config
+C:\Users\Zorana\source\repos\UserControlTest\UserControlTest\bin\Debug\UserControlTest.exe
+C:\Users\Zorana\source\repos\UserControlTest\UserControlTest\bin\Debug\UserControlTest.pdb
+C:\Users\Zorana\source\repos\UserControlTest\UserControlTest\obj\Debug\UserControlTest.csprojAssemblyReference.cache
+C:\Users\Zorana\source\repos\UserControlTest\UserControlTest\obj\Debug\UserControlTest.Form1.resources
+C:\Users\Zorana\source\repos\UserControlTest\UserControlTest\obj\Debug\UserControlTest.Properties.Resources.resources
+C:\Users\Zorana\source\repos\UserControlTest\UserControlTest\obj\Debug\UserControlTest.UcGrad.resources
+C:\Users\Zorana\source\repos\UserControlTest\UserControlTest\obj\Debug\UserControlTest.csproj.GenerateResource.cache
+C:\Users\Zorana\source\repos\UserControlTest\UserControlTest\obj\Debug\UserControlTest.csproj.CoreCompileInputs.cache
+C:\Users\Zorana\source\repos\UserControlTest\UserControlTest\obj\Debug\UserControlTest.exe
+C:\Users\Zorana\source\repos\UserControlTest\UserControlTest\obj\Debug\UserControlTest.pdb

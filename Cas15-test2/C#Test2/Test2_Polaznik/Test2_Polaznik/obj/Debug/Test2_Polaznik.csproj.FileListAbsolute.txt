@@ -1,0 +1,10 @@
+C:\Users\Asus\Desktop\C#Test2\Test2_Polaznik\Test2_Polaznik\bin\Debug\Test2_Polaznik.exe.config
+C:\Users\Asus\Desktop\C#Test2\Test2_Polaznik\Test2_Polaznik\bin\Debug\Test2_Polaznik.exe
+C:\Users\Asus\Desktop\C#Test2\Test2_Polaznik\Test2_Polaznik\bin\Debug\Test2_Polaznik.pdb
+C:\Users\Asus\Desktop\C#Test2\Test2_Polaznik\Test2_Polaznik\obj\Debug\Test2_Polaznik.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\C#Test2\Test2_Polaznik\Test2_Polaznik\obj\Debug\Test2_Polaznik.Form1.resources
+C:\Users\Asus\Desktop\C#Test2\Test2_Polaznik\Test2_Polaznik\obj\Debug\Test2_Polaznik.Properties.Resources.resources
+C:\Users\Asus\Desktop\C#Test2\Test2_Polaznik\Test2_Polaznik\obj\Debug\Test2_Polaznik.csproj.GenerateResource.cache
+C:\Users\Asus\Desktop\C#Test2\Test2_Polaznik\Test2_Polaznik\obj\Debug\Test2_Polaznik.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\C#Test2\Test2_Polaznik\Test2_Polaznik\obj\Debug\Test2_Polaznik.exe
+C:\Users\Asus\Desktop\C#Test2\Test2_Polaznik\Test2_Polaznik\obj\Debug\Test2_Polaznik.pdb

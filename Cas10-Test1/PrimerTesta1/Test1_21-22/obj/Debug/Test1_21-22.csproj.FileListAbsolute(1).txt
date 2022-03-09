@@ -1,0 +1,14 @@
+C:\Users\Marko\source\repos\PrimerTesta1\Test1_21-22\bin\Debug\Test1_21-22.exe.config
+C:\Users\Marko\source\repos\PrimerTesta1\Test1_21-22\bin\Debug\Test1_21-22.exe
+C:\Users\Marko\source\repos\PrimerTesta1\Test1_21-22\bin\Debug\Test1_21-22.pdb
+C:\Users\Marko\source\repos\PrimerTesta1\Test1_21-22\obj\Debug\Test1_21-22.csproj.AssemblyReference.cache
+C:\Users\Marko\source\repos\PrimerTesta1\Test1_21-22\obj\Debug\Test1_21-22.csproj.CoreCompileInputs.cache
+C:\Users\Marko\source\repos\PrimerTesta1\Test1_21-22\obj\Debug\Test1_21-22.exe
+C:\Users\Marko\source\repos\PrimerTesta1\Test1_21-22\obj\Debug\Test1_21-22.pdb
+C:\Users\Marko\Documents\CMT\CMT 21-22\C#\cas10\PrimerTesta1\Test1_21-22\bin\Debug\Test1_21-22.exe.config
+C:\Users\Marko\Documents\CMT\CMT 21-22\C#\cas10\PrimerTesta1\Test1_21-22\bin\Debug\Test1_21-22.exe
+C:\Users\Marko\Documents\CMT\CMT 21-22\C#\cas10\PrimerTesta1\Test1_21-22\bin\Debug\Test1_21-22.pdb
+C:\Users\Marko\Documents\CMT\CMT 21-22\C#\cas10\PrimerTesta1\Test1_21-22\obj\Debug\Test1_21-22.csproj.AssemblyReference.cache
+C:\Users\Marko\Documents\CMT\CMT 21-22\C#\cas10\PrimerTesta1\Test1_21-22\obj\Debug\Test1_21-22.csproj.CoreCompileInputs.cache
+C:\Users\Marko\Documents\CMT\CMT 21-22\C#\cas10\PrimerTesta1\Test1_21-22\obj\Debug\Test1_21-22.exe
+C:\Users\Marko\Documents\CMT\CMT 21-22\C#\cas10\PrimerTesta1\Test1_21-22\obj\Debug\Test1_21-22.pdb

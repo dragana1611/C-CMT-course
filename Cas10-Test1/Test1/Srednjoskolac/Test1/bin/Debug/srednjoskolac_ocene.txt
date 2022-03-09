@@ -1,0 +1,1 @@
+Matematika,5,Srpski jezik,5,Engleski jezik,4,Fizika,4,Hemija,5,Muzicko,4,Fizicko,5,Istorija,4,Biologija,5,Filozofija,3,Programiranje,5,Vladanje,5
