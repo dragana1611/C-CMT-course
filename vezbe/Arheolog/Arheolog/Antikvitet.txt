@@ -1,0 +1,20 @@
+1|Strela|Bakarno doba|Strela|Smitsonijan SAD|1852-03-12|slika1.jpg
+2|Slika|Srednji vek|Slika|Luvr Francuska|1900-11-12|slika2.jpg
+3|Novac|Stara Grčka|Novac|Muzej Iraklion Grčka|1782-06-30|slika3.jpg
+4|Puške|Savremeno doba|Puška|Narodni muzej Srbija|1970-07-25|slika4.jpg
+5|Statua|Rimsko Carstvo|Statua|Britanski Muzej Engleska|1889-09-11|slika5.jpg
+6|Fosili|Neolit|Fosili|Etnografski muzej Austrija|1791-08-18|slika6.jpg
+7|Sarkofag|Stari Egipat|Sarkofag|Muzej Kairo Egipat|1800-01-01|slika7.jpg
+8|Viljuška|Stara Grčka|Viljuška|Nalazište Mikena Grčka|1809-12-14|slika8.jpg
+9|Vaza|Mesopotamija|Vaza|Muzej Korbridž Engleska|1839-10-04|slika9.jpg
+10|Mač|Stari vek|Mač|Muzej Iraklion Grčka|1900-09-02|slika10.jpg
+11|Kostur dinosaurusa|Paleolit|Fosili|3|1872-03-11|slika11.jpg
+12|Čekić|Bakarno doba|Čekić|Britanski Muzej Engleska|1899-05-22|slika12.jpg
+13|Knjiga|Stara Grčka|Knjiga|Nalazište Mikena Grčka|1903-06-12|slika13.jpg
+14|Kruna|Srednji vek|Kruna|Muzej Kairo Egipat|1823-02-10|slika14.jpg
+15|Ogrlica|Mesopotamija|Ogrlica|Etnografski muzej Austrija|1855-12-04|slika15.jpg
+16|Prsten|Stari Egipat|Prsten|Muzej Kairo Egipat|1955-05-29|slika16.jpg
+17|Štit|Rimsko Carstvo|Štit|Luvr Francuska|1845-06-19|slika17.jpg
+18|Knjiga1|Rimsko Carstvo|Knjiga|Nalazište Mikena Grčka|1795-07-09|slika18.jpg
+19|Knjiga2|Stara Grčka|Knjiga|Muzej Iraklion Grčka|1891-08-13|slika19.jpg
+20|Knjiga3|Rimsko Carstvo|Knjiga|Britanski Muzej Engleska|1871-09-23|slika20.jpg
